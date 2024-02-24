@@ -29,7 +29,7 @@ Before running the application, ensure you have the following installed:
 1. Clone the repository:
 
     ```bash
-    git clone <repository_url>
+    git clone https://github.com/singhv5/Springboot.git
     ```
 
 2. Navigate to the project directory:
@@ -85,7 +85,3 @@ Before running the application, ensure you have the following installed:
 ## Contributing
 
 Contributions are welcome! Please feel free to submit a pull request.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
